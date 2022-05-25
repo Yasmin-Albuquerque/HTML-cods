@@ -1,0 +1,122 @@
+		body {
+				background-color: #ffffed;
+				width: 940px;
+				margin-left: auto;
+				margin-right: auto;
+				font-family: "arial";
+				}
+
+		p {font-size: 17px;}
+
+		h2 {
+			border-bottom: 2px solid #333333;
+			margin-top: 30px;
+			}
+
+		.q1 {
+			     	position: absolute;
+  				  background-color: #e6fff2;
+  				  width: 90px;
+            height: 90px;
+          	cursor: all-scroll;
+          	text-align: center;
+			}
+
+		.q2 {
+				    position: absolute;
+  				  background-color: #ccffe6;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: col-resize;
+          	text-align: center;
+			}
+
+		.q3 {
+			      position: absolute;
+  			    background-color: #b3ffd9;
+  				  width: 90px;
+           	height: 90px;
+          	cursor: crosshair;
+          	text-align: center;
+			}
+
+		.q4 {
+			   	  position: absolute;
+  				  background-color: #99ffcc;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: -webkit-grab;
+          	text-align: center;
+			}
+
+		.q5 {
+				    position: absolute;
+  				  background-color: #80ffbf;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: -webkit-grabbing;
+          	text-align: center;
+			}
+
+		.q6 {
+				    position: absolute;
+  				  background-color: #4dffa6;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: help;
+          	text-align: center;
+			}
+
+		.q7 {
+			     	position: absolute;
+  				  background-color: #1aff8c;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: n-resize;
+          	text-align: center;
+			}
+
+		.q8 {
+			     	position: absolute;
+  				  background-color: #00e673;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: ne-resize;
+          	text-align: center;
+			}
+
+		.q9 {
+			     	position: absolute;
+  				  background-color: #00cc66;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: nw-resize;
+          	text-align: center;
+			}
+
+		.q10 {
+			     	position: absolute;
+  				  background-color: #00994d;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: w-resize;
+          	text-align: center;
+			}
+
+		.q11 {
+			     	position: absolute;
+  				  background-color: #008040;
+  				  width: 90px;
+          	height: 90px;
+          	cursor: row-resize;
+          	text-align: center;
+			}
+
+		.q12 {
+		    		position: absolute;
+    				background-color: #004d26;
+    				width: 90px;
+          	height: 90px;
+          	cursor: text;
+          	text-align: center;
+			}
